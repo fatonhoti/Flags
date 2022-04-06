@@ -87,15 +87,15 @@ Project Link: [https://github.com/fatonhoti/FlagsGame](https://github.com/fatonh
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/fatonhoti/Flags.svg?style=for-the-badge
-[contributors-url]: https://github.com/fatonhoti/Flags/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fatonhoti/Flags.svg?style=for-the-badge
-[forks-url]: https://github.com/fatonhoti/Flags/network/members
-[stars-shield]: https://img.shields.io/github/stars/fatonhoti/Flags.svg?style=for-the-badge
-[stars-url]: https://github.com/fatonhoti/Flags/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fatonhoti/Flags.svg?style=for-the-badge
-[issues-url]: https://github.com/fatonhoti/Flags/issues
-[license-shield]: https://img.shields.io/github/license/fatonhoti/Flags.svg?style=for-the-badge
-[license-url]: https://github.com/fatonhoti/Flags/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/fatonhoti/FlagsGame.svg?style=for-the-badge
+[contributors-url]: https://github.com/fatonhoti/FlagsGame/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fatonhoti/FlagsGame.svg?style=for-the-badge
+[forks-url]: https://github.com/fatonhoti/FlagsGame/network/members
+[stars-shield]: https://img.shields.io/github/stars/fatonhoti/FlagsGame.svg?style=for-the-badge
+[stars-url]: https://github.com/fatonhoti/FlagsGame/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fatonhoti/FlagsGame.svg?style=for-the-badge
+[issues-url]: https://github.com/fatonhoti/FlagsGame/issues
+[license-shield]: https://img.shields.io/github/license/fatonhoti/FlagsGame.svg?style=for-the-badge
+[license-url]: https://github.com/fatonhoti/FlagsGame/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/faton-hoti-8318b0224/
