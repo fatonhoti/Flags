@@ -34,9 +34,8 @@
   </a>
 
 <h3 align="center">Flags</h3>
-
   <p align="center">
-    Flags is a game that makes it super straight forward and fun to learn the World's flags!
+    Flags is an Android game that makes it super straight forward and fun to learn the flags of the World!
     <br />
     <br />
     <a href="https://github.com/fatonhoti/Flags/issues">Report Bug</a>
@@ -64,9 +63,8 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add some new feature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
+2. Make your changes
+3. Make a commit
 5. Open a Pull Request
 
 <!-- LICENSE -->
