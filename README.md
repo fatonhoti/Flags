@@ -48,8 +48,10 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Add new regions
-- [] Support for dark mode
+- [ ] Add new regions
+- [ ] Support for dark mode
+- [ ] Track fun statistics such as games played and average score per game.
+- [ ] Support for other languages (only English available right now)
 
 See the [open issues](https://github.com/fatonhoti/Flags/issues) for a full list of proposed features (and known issues).
 
