@@ -96,6 +96,6 @@ Project Link: [https://github.com/fatonhoti/FlagsGame](https://github.com/fatonh
 [issues-shield]: https://img.shields.io/github/issues/fatonhoti/FlagsGame.svg?style=for-the-badge
 [issues-url]: https://github.com/fatonhoti/FlagsGame/issues
 [license-shield]: https://img.shields.io/github/license/fatonhoti/FlagsGame.svg?style=for-the-badge
-[license-url]: https://github.com/fatonhoti/FlagsGame/blob/main/LICENSE
+[license-url]: https://github.com/fatonhoti/Flags/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/faton-hoti-8318b0224/
