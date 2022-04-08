@@ -91,8 +91,8 @@ Project Link: [https://github.com/fatonhoti/FlagsGame](https://github.com/fatonh
 [contributors-url]: https://github.com/fatonhoti/FlagsGame/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/fatonhoti/FlagsGame.svg?style=for-the-badge
 [forks-url]: https://github.com/fatonhoti/FlagsGame/network/members
-[stars-shield]: https://img.shields.io/github/stars/fatonhoti/FlagsGame.svg?style=for-the-badge
-[stars-url]: https://github.com/fatonhoti/FlagsGame/stargazers
+[stars-shield]: https://img.shields.io/github/stars/fatonhoti/Flags.svg?style=for-the-badge
+[stars-url]: https://github.com/fatonhoti/Flags/stargazers
 [issues-shield]: https://img.shields.io/github/issues/fatonhoti/FlagsGame.svg?style=for-the-badge
 [issues-url]: https://github.com/fatonhoti/FlagsGame/issues
 [license-shield]: https://img.shields.io/github/license/fatonhoti/FlagsGame.svg?style=for-the-badge
