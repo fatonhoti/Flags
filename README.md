@@ -33,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Flags [WIP]</h3>
+<h3 align="center">Flags</h3>
   <p align="center">
     Flags is an Android game that makes it super straight forward and fun to learn the flags of the World!
     <br />
@@ -48,6 +48,8 @@
 ## Roadmap
 
 - [ ] Add new regions
+- [ ] Add new game mode "Guess the capital"
+- [ ] Add new game mode "Guess the currency"
 - [x] Support for dark mode
 - [ ] Track fun statistics such as games played and average score per game.
 - [ ] Support for other languages (only English available right now)
