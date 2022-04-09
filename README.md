@@ -35,7 +35,7 @@
 
 <h3 align="center">Flags</h3>
   <p align="center">
-    Flags is an Android game that makes it super straight forward and fun to learn the flags of the World!
+    Flags is an Android game that makes it super straight forward and fun to learn the flags, capitals and currencies of the World!
     <br />
     <br />
     <a href="https://github.com/fatonhoti/Flags/issues">Report Bug</a>
