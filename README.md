@@ -50,7 +50,7 @@
 - [ ] Add new regions
 - [ ] Add new game mode "Guess the capital"
 - [ ] Add new game mode "Guess the currency"
-- [x] Support for dark mode
+- [ ] Support for dark mode
 - [ ] Track fun statistics such as games played and average score per game.
 - [ ] Support for other languages (only English available right now)
 
