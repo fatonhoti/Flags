@@ -48,11 +48,15 @@
 ## Roadmap
 
 - [ ] Add new regions
-- [ ] Add new game mode "Guess the capital"
-- [ ] Add new game mode "Guess the currency"
+- [x] Add new game mode "Guess the capital"
+- [x] Add new game mode "Guess the currency"
 - [ ] Support for dark mode
+- [ ] Improve design
+- [ ] Add compatability for 7" tablets
+- [ ] Add compatability for 10" tablets
 - [ ] Track fun statistics such as games played and average score per game.
 - [ ] Support for other languages (only English available right now)
+- [ ] Fix bugs :)
 
 See the [open issues](https://github.com/fatonhoti/Flags/issues) for a full list of proposed features (and known issues).
 
