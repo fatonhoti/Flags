@@ -47,14 +47,19 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add new regions
-- [x] Add new game mode "Guess the capital"
-- [x] Add new game mode "Guess the currency"
+- [ ] Add new game modes
+  - [x] Add new game mode "Guess the flag"
+  - [x] Add new game mode "Guess the capital"
+  - [x] Add new game mode "Guess the currency"
+  - [ ] Add new game mode "Guess the language"
+  - [ ] Add new game mode "Guess the ocean"
 - [ ] Support for dark mode
 - [ ] Improve design
 - [ ] Add compatability for 7" tablets
 - [ ] Add compatability for 10" tablets
-- [ ] Track fun statistics such as games played and average score per game.
+- [ ] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
+- [ ] Implement achievements
+- [ ] Add random facts to main menu
 - [ ] Support for other languages (only English available right now)
 - [ ] Fix bugs :)
 
