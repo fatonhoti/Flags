@@ -33,9 +33,9 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Flags</h3>
+<h3 align="center">World Geography</h3>
   <p align="center">
-    Flags is an Android game that makes it super straight forward and fun to learn the flags, capitals and currencies of the World!
+    World Geography is an Android game that makes it super straight forward and fun to learn all about the world. Flags, capitals, currencies, languages and much more!
     <br />
     <br />
     <a href="https://github.com/fatonhoti/Flags/issues">Report Bug</a>
@@ -47,12 +47,19 @@
 <!-- ROADMAP -->
 ## Roadmap
 
+- [ ] Add new regions
+  - [ ] Northern EU
+  - [ ] Western EU
+  - [ ] Southern EU
+  - [ ] Eastern EU
 - [ ] Add new game modes
-  - [x] Add new game mode "Guess the flag"
-  - [x] Add new game mode "Guess the capital"
-  - [x] Add new game mode "Guess the currency"
-  - [ ] Add new game mode "Guess the language"
-  - [ ] Add new game mode "Guess the ocean"
+  - [x] Add new game mode "Flags"
+  - [x] Add new game mode "Capitals"
+  - [x] Add new game mode "Currencies"
+  - [ ] Add new game mode "Languages"
+  - [ ] Add new game mode "Tourist Attractions"
+  - [ ] Add new game mode "Oceans"
+  - [ ] Add new game mode "Rivers"
 - [ ] Support for dark mode
 - [ ] Improve design
 - [ ] Add compatability for 7" tablets
@@ -63,12 +70,11 @@
 - [ ] Support for other languages (only English available right now)
 - [ ] Fix bugs :)
 
-See the [open issues](https://github.com/fatonhoti/Flags/issues) for a full list of proposed features (and known issues).
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are not being accepted at this moment.
+<!-- Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -76,7 +82,7 @@ Don't forget to give the project a star! Thanks again!
 1. Fork the Project
 2. Make your changes
 3. Make a commit
-5. Open a Pull Request
+5. Open a Pull Request -->
 
 <!-- LICENSE -->
 ## License
