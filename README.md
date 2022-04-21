@@ -56,9 +56,9 @@
   - [x] Add new game mode "Flags"
   - [x] Add new game mode "Capitals"
   - [x] Add new game mode "Currencies"
-  - [ ] Add new game mode "Languages"
+  - [X] Add new game mode "Languages"
+  - [ ] Add new game mode "Continents"
   - [ ] Add new game mode "Tourist Attractions"
-  - [ ] Add new game mode "Oceans"
   - [ ] Add new game mode "Rivers"
 - [ ] Support for dark mode
 - [ ] Improve design
