@@ -46,27 +46,19 @@
 
 <!-- ROADMAP -->
 ## Roadmap
-
-- [ ] Add new regions
-  - [ ] Northern EU
-  - [ ] Western EU
-  - [ ] Southern EU
-  - [ ] Eastern EU
-- [ ] Add new game modes
-  - [x] Add new game mode "Flags"
-  - [x] Add new game mode "Capitals"
-  - [x] Add new game mode "Currencies"
-  - [X] Add new game mode "Languages"
-  - [X] Add new game mode "Continents"
-  - [ ] Add new game mode "Tourist Attractions"
-  - [ ] Add new game mode "Rivers"
+- [X] Add game modes
+  - [x] Add game mode "Flags"
+  - [x] Add game mode "Capitals"
+  - [x] Add game mode "Currencies"
+  - [X] Add game mode "Languages"
+  - [X] Add game mode "Continents"
 - [X] Support for dark mode
-- [ ] Improve design
 - [X] Add compatability for 7" tablets
 - [X] Add compatability for 10" tablets
-- [ ] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
 - [X] Implement achievements
+- [ ] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
 - [ ] Support for other languages (only English available right now)
+- [ ] Fix design inconsistencies
 - [ ] Fix bugs :)
 
 <!-- CONTRIBUTING -->
