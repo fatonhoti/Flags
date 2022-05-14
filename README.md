@@ -57,16 +57,15 @@
   - [x] Add new game mode "Capitals"
   - [x] Add new game mode "Currencies"
   - [X] Add new game mode "Languages"
-  - [ ] Add new game mode "Continents"
+  - [X] Add new game mode "Continents"
   - [ ] Add new game mode "Tourist Attractions"
   - [ ] Add new game mode "Rivers"
-- [ ] Support for dark mode
+- [X] Support for dark mode
 - [ ] Improve design
 - [ ] Add compatability for 7" tablets
 - [ ] Add compatability for 10" tablets
 - [ ] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
-- [ ] Implement achievements
-- [ ] Add random facts to main menu
+- [X] Implement achievements
 - [ ] Support for other languages (only English available right now)
 - [ ] Fix bugs :)
 
