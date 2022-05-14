@@ -63,7 +63,7 @@
 - [X] Support for dark mode
 - [ ] Improve design
 - [X] Add compatability for 7" tablets
-- [ ] Add compatability for 10" tablets
+- [X] Add compatability for 10" tablets
 - [ ] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
 - [X] Implement achievements
 - [ ] Support for other languages (only English available right now)
