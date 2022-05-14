@@ -62,7 +62,7 @@
   - [ ] Add new game mode "Rivers"
 - [X] Support for dark mode
 - [ ] Improve design
-- [ ] Add compatability for 7" tablets
+- [X] Add compatability for 7" tablets
 - [ ] Add compatability for 10" tablets
 - [ ] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
 - [X] Implement achievements
