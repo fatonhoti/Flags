@@ -56,7 +56,7 @@
 - [X] Add compatability for 7" tablets
 - [X] Add compatability for 10" tablets
 - [X] Implement achievements
-- [ ] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
+- [X] Track fun statistics such as games played, correctly guessed capitals and other fun stuff!
 - [ ] Support for other languages (only English available right now)
 - [ ] Fix design inconsistencies
 - [ ] Fix bugs :)
