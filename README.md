@@ -87,12 +87,6 @@ Faton Hoti - hotifaton@outlook.com
 
 Project Link: [https://github.com/fatonhoti/FlagsGame](https://github.com/fatonhoti/FlagsGame)
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [worldCountryData](https://github.com/blongho/worldCountryData)
-* [Best README template](https://github.com/othneildrew/Best-README-Template)
-
 ---
 
 <!-- Game Images -->
